@@ -73,10 +73,10 @@ Make sure the notebook's kernel is pointed at the `.venv` where you installed Py
 
 | Metric | ANN | CNN |
 |---|---|---|
-| Trainable parameters | | |
-| Training time (s) | | |
-| Validation accuracy | | |
-| Test accuracy | | |
+| Trainable parameters |34,725,510 |2,896,838 |
+| Training time (s) |415.8s |434.0s |
+| Validation accuracy |0.609 |0.847 |
+| Test accuracy |0.592 |0.854 |
 
 ## Notes
 - If you hit `CUDA out of memory` on a lower-VRAM GPU, reduce `BATCH_SIZE` in the notebook
