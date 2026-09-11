@@ -70,7 +70,6 @@ Make sure the notebook's kernel is pointed at the `.venv` where you installed Py
    version of this model.
 
 ## Results
-*(Fill in after running — numbers depend on your hardware and chosen epoch count.)*
 
 | Metric | ANN | CNN |
 |---|---|---|
